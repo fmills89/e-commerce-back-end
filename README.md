@@ -5,7 +5,8 @@ This challenge was created to to model how a e-commerce site operated on the bac
 By creating APIs, integrating a server and database we are able to GET our categories, products, and tags.
 We are using models to establish how our database will be structured 
 
-## Screenshot
+## Walk-through
+<a href="https://drive.google.com/file/d/1hJCz9o2y2JZ36Cp8jCdOCVUjWLxqnhPI/view">Check out a walk-through video here</a>
 
 ## Installation
 - Git clone repo
